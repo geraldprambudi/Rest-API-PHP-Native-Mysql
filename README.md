@@ -16,11 +16,11 @@ Tools :
 4. Web Server (Xampp, Lampp)
 
 Rest Server : 
-GET ALL     : http://localhost/2019/restapi_product_phpNative/server/product/read.php
-GET ID      : http://localhost/2019/restapi_product_phpNative/product/read_one.php?id=28
-POST        : http://localhost/2019/restapi_product_phpNative/server/product/create.php
-PUT         : http://localhost/2019/restapi_product_phpNative/server/product/update.php
-DELETE      : http://localhost/2019/restapi_product_phpNative/server/product/delete.php
+1. GET ALL     : http://localhost/2019/restapi_product_phpNative/server/product/read.php
+2. GET ID      : http://localhost/2019/restapi_product_phpNative/product/read_one.php?id=28
+3. POST        : http://localhost/2019/restapi_product_phpNative/server/product/create.php
+4. PUT         : http://localhost/2019/restapi_product_phpNative/server/product/update.php
+5. DELETE      : http://localhost/2019/restapi_product_phpNative/server/product/delete.php
 
 
 Rest API Client : Running Browser Chrome Or Firefox Using Bootstrap, Jquery, Ajax.
