@@ -1,6 +1,6 @@
 # REST API PHP NATIVE MYSQL & REST API CLIENT JQUERY AJAX
 
-database name : db_api.sql
+# database name : db_api.sql
 ```
 $ mysql -u root -p
 mysql> create database db_api;
@@ -82,7 +82,7 @@ CRUD CATEGORIES
 3. UPDATE
 4. DELETE
 
-Import SQL db_api.sql from my source code
+Import SQL db_api.sql from folder server 
 
 Tools :
 1. POSTMAN (Test Rest Server)
