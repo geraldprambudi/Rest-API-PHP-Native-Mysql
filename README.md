@@ -92,15 +92,17 @@ Tools :
 3. Code Editor (Visual Studio Code, Sublime Text, Atom.io)
 4. Web Server (Xampp, Lampp)
 
-TEST REST SERVER USING POSTMAN : 
-1. GET ALL     : http://localhost/2019/restapi_product_phpNative/server/product/read.php
-2. GET ID      : http://localhost/2019/restapi_product_phpNative/product/read_one.php?id=28
-3. POST        : http://localhost/2019/restapi_product_phpNative/server/product/create.php
-4. PUT         : http://localhost/2019/restapi_product_phpNative/server/product/update.php
-5. DELETE      : http://localhost/2019/restapi_product_phpNative/server/product/delete.php
+TESTING REST SERVER PRODUCT USING POSTMAN : 
+1. GET ALL       : http://localhost/2019/restapi_product_phpNative/server/product/read.php
+2. GET ID        : http://localhost/2019/restapi_product_phpNative/product/read_one.php?id=28
+3. POST          : http://localhost/2019/restapi_product_phpNative/server/product/create.php
+4. PUT           : http://localhost/2019/restapi_product_phpNative/server/product/update.php
+5. DELETE        : http://localhost/2019/restapi_product_phpNative/server/product/delete.php
+6. SEARCH (GET)  : http://localhost/2019/restapi_product_phpNative/server/product/search.php?s=guling
+7. PAGE / PAGING : http://localhost/2019/restapi_product_phpNative/server/product/read_paging.php?page=1
+8. PAGE / PAGING : http://localhost/2019/restapi_product_phpNative/server/product/read_paging.php
 
-
+TESTING REST SERVER CATEGORIES USING POSTMAN : 
+1. GET ALL       : http://localhost/2019/restapi_product_phpNative/server/category/read.php
 Rest API Client : Running Browser Chrome Or Firefox Using Bootstrap, Jquery, Ajax.
-
-
 
