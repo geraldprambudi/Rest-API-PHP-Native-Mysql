@@ -104,5 +104,7 @@ TESTING REST SERVER PRODUCT USING POSTMAN :
 
 TESTING REST SERVER CATEGORIES USING POSTMAN : 
 1. GET ALL       : http://localhost/2019/restapi_product_phpNative/server/category/read.php
+
+
 Rest API Client : Running Browser Chrome Or Firefox Using Bootstrap, Jquery, Ajax.
 
