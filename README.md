@@ -75,6 +75,8 @@ CRUD PRODUCT
 2. READ
 3. UPDATE
 4. DELETE
+5. SEARCH
+6. PAGING
 
 CRUD CATEGORIES
 1. CREATE
@@ -90,7 +92,7 @@ Tools :
 3. Code Editor (Visual Studio Code, Sublime Text, Atom.io)
 4. Web Server (Xampp, Lampp)
 
-Rest Server : 
+TEST REST SERVER USING POSTMAN : 
 1. GET ALL     : http://localhost/2019/restapi_product_phpNative/server/product/read.php
 2. GET ID      : http://localhost/2019/restapi_product_phpNative/product/read_one.php?id=28
 3. POST        : http://localhost/2019/restapi_product_phpNative/server/product/create.php
